@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/oxquiz/static/css/main.3b0fa4d1.css",
+    "main.js": "/oxquiz/static/js/main.17c847f9.js",
+    "static/js/453.4645197d.chunk.js": "/oxquiz/static/js/453.4645197d.chunk.js",
+    "index.html": "/oxquiz/index.html",
+    "main.3b0fa4d1.css.map": "/oxquiz/static/css/main.3b0fa4d1.css.map",
+    "main.17c847f9.js.map": "/oxquiz/static/js/main.17c847f9.js.map",
+    "453.4645197d.chunk.js.map": "/oxquiz/static/js/453.4645197d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b0fa4d1.css",
+    "static/js/main.17c847f9.js"
+  ]
+}
